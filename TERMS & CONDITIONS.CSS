@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: rgb(241,234,238);
+background: radial-gradient(circle, rgba(241,234,238,1) 29%, rgba(215,191,216,1) 99%);
+  }
+  header{
+    text-align: center;
+  }
+  main {
+    padding: 10px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  footer{
+    text-align: center;
+  }
+  
